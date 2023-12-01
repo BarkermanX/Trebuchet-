@@ -1,0 +1,14 @@
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\bin\Debug\net7.0\AdventCode.exe
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\bin\Debug\net7.0\AdventCode.deps.json
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\bin\Debug\net7.0\AdventCode.runtimeconfig.json
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\bin\Debug\net7.0\AdventCode.dll
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\bin\Debug\net7.0\AdventCode.pdb
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\AdventCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\AdventCode.AssemblyInfoInputs.cache
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\AdventCode.AssemblyInfo.cs
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\AdventCode.csproj.CoreCompileInputs.cache
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\AdventCode.dll
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\refint\AdventCode.dll
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\AdventCode.pdb
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\AdventCode.genruntimeconfig.cache
+C:\Users\steven.barker\source\repos\AdventCode\AdventCode\obj\Debug\net7.0\ref\AdventCode.dll
